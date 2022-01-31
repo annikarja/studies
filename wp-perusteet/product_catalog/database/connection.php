@@ -1,7 +1,7 @@
 <?php 
     $host = 'localhost';
-    $user = 'karja';
-    $passwd = 'Koodaus1';
+    $user = '';
+    $passwd = '';
     $dbase = 'wppalko';
 
     $conn = mysqli_connect($host, $user, $passwd, $dbase); 
